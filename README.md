@@ -8,18 +8,18 @@ An Exploratory Data Analysis (EDA) project on Electronic Sales Data built using 
 The goal is to identify top-performing customer segments and best-selling product categories to improve business decisions and marketing focus.
 
 2. ### Tech Stack
+   
+🐍 Python – Programming language for data analysis
 
-Python - Programming language for data analysis
+🧹 Pandas – Data cleaning and manipulation
 
-Pandas - Data cleaning and manipulation
+🔢 NumPy – Numerical operations
 
-NumPy - Numerical operations
+📊 Matplotlib – Data visualization
 
-Matplotlib - Data visualization
+📈 Seaborn – Advanced statistical plotting
 
-Seaborn - Advanced statistical plotting
-
-Jupyter Notebook - Development environment for EDA
+📒 Jupyter Notebook – Development environment for EDA
 
 
 3. ### Data Source
